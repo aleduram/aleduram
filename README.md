@@ -8,6 +8,7 @@ _Bienvenidos !!! esto son resumenes de como aprender herremientas de Ciberseguri
 ](https://ytcards.demolab.com/?id=s3L6MhtcK2A&title=¿Aprender+a+programar+en+el+2024?+Escucha+estos+consejos+antes&lang=en&timestamp=1700427119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 <!-- END YOUTUBE-CARDS -->
 
+
 <!--
 **aleduram/aleduram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
