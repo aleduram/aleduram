@@ -21,8 +21,8 @@ _Bienvenidos !!! esto son resumenes de como aprender herremientas de Ciberseguri
   <tr>
     <!-- Video 1 -->
     <td align="center" style="border: none;">
-      <a href="https://www.youtube.com/watch?v=ZidJzAf4VSw" target="_blank">
-        <img src="https://img.youtube.com/vi/ZidJzAf4VSw/0.jpg" alt="Principio de Responsabilidad Única" width="100%" style="border-radius: 8px;" />
+      <a href="https://www.youtube.com" target="_blank">
+        <img src="https://youtube.com" alt="Principio de Responsabilidad Única" width="100%" style="border-radius: 8px;" />
       </a>
     </td>
     <td></td> <!-- Espaciador -->
