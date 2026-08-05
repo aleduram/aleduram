@@ -2,7 +2,9 @@
 ![Banner Prueba](bannerBackgroundImage_kpmq376duzj51.jpeg)
 _Bienvenidos !!! esto son resumenes de como aprender herremientas de Ciberseguridad._
 
+[![Git Readme](https://img.youtube.com/vi/btlEy8nGOrY/0.jpg)](https://www.youtube.com/watch?v=btlEy8nGOrY)
 
+[![Bash Scripting](https://img.youtube.com/vi/ZidJzAf4VSw/0.jpg)](https://www.youtube.com/watch?v=ZidJzAf4VSw)
 <!--
 **aleduram/aleduram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
