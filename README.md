@@ -64,8 +64,7 @@ Me apasiona romper sistemas de forma ética para ayudarlos a ser más seguros. A
 
 
 ### 💀 Offensive & Testing
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
+
 <td align="center" style="border: none;">
 ![Kali Linux](https://shields.io)
 </td>
@@ -82,7 +81,7 @@ Me apasiona romper sistemas de forma ética para ayudarlos a ser más seguros. A
 <td align="center" style="border: none;">
 ![Nmap](https://shields.io)
 </td>
-</tr>
+
 
 ### 🐍 Automation & Infrastructure
 
