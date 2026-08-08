@@ -1,5 +1,5 @@
 
-
+---
 <p align="center">
 
   <img src="https://giphy.com" width="100%" alt="Cybersecurity Banner" />
@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">⚡ Hi, I'm [Tu Nombre/Alias] | Cybersecurity Specialist ⚡</h1>
+<h1 align="center">⚡ Hi, I'm AllRoot | Cybersecurity Specialist ⚡</h1>
 
 <p align="center">
 
@@ -21,7 +21,7 @@
 <p align="center">
 
 <td align="center" style="border: none;">
-  <a href="https://linkedin.com"><img src="[https://shields.io](https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF
+  <a href="https://linkedin.com"><img src="https://shields.io](https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF
 )" alt="LinkedIn"></a>
 </td>
 <td align="center" style="border: none;">
@@ -64,10 +64,12 @@ Me apasiona romper sistemas de forma ética para ayudarlos a ser más seguros. A
 
 
 ### 💀 Offensive & Testing
-
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
 <td align="center" style="border: none;">
 ![Kali Linux](https://shields.io)
 </td>
+<td></td>
 <td align="center" style="border: none;">
 ![Burp Suite](https://shields.io)
 </td>
@@ -80,7 +82,7 @@ Me apasiona romper sistemas de forma ética para ayudarlos a ser más seguros. A
 <td align="center" style="border: none;">
 ![Nmap](https://shields.io)
 </td>
-
+</tr>
 
 ### 🐍 Automation & Infrastructure
 
