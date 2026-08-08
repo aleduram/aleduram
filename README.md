@@ -21,7 +21,8 @@
 <p align="center">
 
 <td align="center" style="border: none;">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://linkedin.com"><img src="[https://shields.io](https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF
+)" alt="LinkedIn"></a>
 </td>
 <td align="center" style="border: none;">
   <a href="https://tryhackme.com"><img src="https://shields.io" alt="TryHackMe"></a>
