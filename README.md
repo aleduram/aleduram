@@ -9,24 +9,23 @@
 
 <p align="center">
 
-  <strong>Ethical Hacker | DevSecOps Enthusiast | CTF Player | Blue/Red Teamer</strong>
+<strong>Ethical Hacker | DevSecOps Enthusiast | CTF Player | Blue/Red Teamer</strong>
 
 </p>
 
 
-
 <p align="center">
 
-<td align="center" style="border: none;">
-  <a href="https://linkedin.com"><img src="https://shields.io](https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF
-)" alt="LinkedIn"></a>
-</td>
-<td align="center" style="border: none;">
-  <a href="https://tryhackme.com"><img src="https://shields.io" alt="TryHackMe"></a>
-</td>
-<td align="center" style="border: none;">
-  <a href="https://hackthebox.com"><img src="https://shields.io" alt="HackTheBox"></a>
-</td>
+  <td align="center" style="border: none;">
+    <a href="https://linkedin.com"><img src="https://shields.io](https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF
+  )" alt="LinkedIn"></a>
+  </td>
+  <td align="center" style="border: none;">
+    <a href="https://tryhackme.com"><img src="https://shields.io" alt="TryHackMe"></a>
+  </td>
+  <td align="center" style="border: none;">
+    <a href="https://hackthebox.com"><img src="https://shields.io" alt="HackTheBox"></a>
+  </td>
 </p>
 
 ---
