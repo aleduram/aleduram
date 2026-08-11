@@ -1,11 +1,9 @@
 
 <p align="center">
 
-  <img src="bannerBackgroundImage_kpmq376duzj51.jpeg" width="100%" alt="Cybersecurity Banner" />
+  <img src="banner (1).svg" width="100%" alt="Cybersecurity Banner" />
 
 </p>
-
-
 
 <h1 align="center">⚡ Hi, I'm AllRoot | Cybersecurity Specialist ⚡</h1>
 
