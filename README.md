@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://giphy.com" width="100%" alt="Cybersecurity Banner" />
+  <img src="bannerBackgroundImage_kpmq376duzj51.jpeg" width="100%" alt="Cybersecurity Banner" />
 
 </p>
 
