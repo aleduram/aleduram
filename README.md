@@ -26,6 +26,9 @@
   <td align="center" style="border: none;">
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF" alt="HackTheBox"></a>
   </td>
+  <td align="center" style="border: none;">
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717? style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+  </td>
 </p>
 
 ---
