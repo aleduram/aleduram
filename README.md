@@ -17,15 +17,16 @@
 <p align="center">
 
   <td align="center" style="border: none;">
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/TryHackMe%20-%20000000?color=%230D7EBF
-  )" alt="LinkedIn"></a>
+    <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/Tryhackme%20-%20%23151C2B
+    " alt="LinkedIn"></a>
   
   </td>
   <td align="center" style="border: none;">
-    <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/HackTheBox%20-%20000000?color=#141D2B" alt="TryHackMe"></a>
+    <a href="https://hackthebox.com"><img src="https://img.shields.io/badge/Tryhackme%20-%20%239FEF00
+    " alt="TryHackMe"></a>
   </td>
   <td align="center" style="border: none;">
-    <a href="https://hackthebox.com"><img src="https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF" alt="HackTheBox"></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF" alt="HackTheBox"></a>
   </td>
 </p>
 
