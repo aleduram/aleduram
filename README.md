@@ -5,11 +5,11 @@
 
 </p>
 
-<h1 align="center">⚡ Hi, I'm AllRoot | Cybersecurity Specialist ⚡</h1>
+<h1 align="center"> Hi, I'm AllRoot | Cybersecurity Specialist</h1>
 
 <p align="center"
 
-<strong>Ethical Hacker | DevSecOps Enthusiast | CTF Player | Blue/Red Teamer</strong>
+<strong>Analista de Ciberseguridad | De la Infraestructura de Red al Análisis Forense Digital (DFIR) Ethical Hacker | CTF Player | Blue/Red Teamer</strong>
 
 </p>
 
