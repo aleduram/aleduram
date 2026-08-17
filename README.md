@@ -33,11 +33,20 @@
 
 ---
 
-## 🛡️ Sobre Mí
+## Sobre Mí
+No entiendo la ciberseguridad sin aprender de verdad, y es romper cosas en entornos controlados, experimentando y volviéndolos a armar. Llevo más de 10 años en el terreno tecnológico, garantizando la disponibilidad y resiliencia de la infraestructura crítica de red (Capa 1 OSI), Diseño y despliegue físico de redes LAN, asegurando la integridad del medio de transmisión contra accesos no autorizados. es el impulso que tengo para dar el salto natural que me apasiona: la ciberseguridad, he completado una Formación Dual en Seguridad Informática. Actualmente enfocado en la transición hacia el ámbito de la seguridad defensiva como Analista SOC L1, Respuesta a Incidentes (DFIR), el Análisis Forense Digital.No entiendo la seguridad como una teoría, sino como una práctica diaria para defender la Tríada CIA (Confidencialidad, Integridad y Disponibilidad).
 
+Sé que estoy empezando en esta especialidad y que aún me queda un camino enorme por recorrer, pero mi proceso de aprendizaje no tiene límites. Lo que me falta en años de experiencia corporativa en ciberseguridad, lo compenso con horas de laboratorio, curiosidad innata y unas ganas inmensas de poner en práctica todo lo que sé en entornos reales.
 
-Me apasiona romper sistemas de forma ética para ayudarlos a ser más seguros. Actualmente enfocado en la auditoría de aplicaciones web, seguridad en la nube (Cloud Security) y la automatización de análisis de vulnerabilidades en pipelines de CI/CD (DevSecOps).
+**Cuando no estoy auditando, estoy experimentando en mi propio laboratorio bajo estos tres pilares:**
 
+* _Defensa Activa y Redes:_ Configuración de reglas y políticas de cortafuegos en OPNsense, inspección profunda de tráfico con Wireshark y detección de intrusiones con Suricata y Wazuh (SIEM). Todo esto bajo el marco estratégico de la Tríada CIA, NIST, ISO 27001 y RGPD.
+
+* _Infraestructura y Virtualización:_ Despliegue de escenarios y topologías complejas utilizando el hipervisor Proxmox, contenedores en Docker y entornos en VirtualBox.
+
+* _Análisis Forense y Recuperación (DFIR):_ Prácticas constantes en CTFs de investigación, análisis de evidencias con Autopsy y FTK Imager, rescate de información en discos duros dañados y gestión de imágenes con Ghost y Clonezilla.
+
+En este proceso de aprendizaje continuo (que considero que nunca alcanzará su límite), dedico mi tiempo libre, mi mentalidad es curiosa por naturaleza si algo falla, no paro hasta entender el "cómo" y el "por qué".
 
 
 > [!IMPORTANT]
