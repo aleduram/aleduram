@@ -9,7 +9,7 @@
 
 <p align="center"
 
-<strong>Analista de Ciberseguridad | De la Infraestructura de Red al Análisis Forense Digital (DFIR) Ethical Hacker | CTF Player | Blue/Red Teamer</strong>
+<strong>Analista de Ciberseguridad | De la Infraestructura de Red al Análisis Forense Digital (DFIR) | Ethical Hacker | CTF Player | Blue/Red Teamer</strong>
 
 </p>
 
