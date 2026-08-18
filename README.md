@@ -78,7 +78,7 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 </td>
 <td></td>
 <td align="center" style="border: none;">
-![Static Badge](https://img.shields.io/badge/Burp%20Suite-%23FE6515)
+<img src=https://img.shields.io/badge/Burp%20Suite-%23FE6515>
 </td>
 <td align="center" style="border: none;">
 ![Metasploit](https://shields.io)
