@@ -74,11 +74,11 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 ### Offensive & Testing
 
 <td align="center" style="border: none;">
-![Kali Linux](https://shields.io)
+![Static Badge](https://img.shields.io/badge/Kali%20Linux-4351F7)
 </td>
 <td></td>
 <td align="center" style="border: none;">
-![Burp Suite](https://shields.io)
+![Static Badge](https://img.shields.io/badge/Burp%20Suite-%23FE6515)
 </td>
 <td align="center" style="border: none;">
 ![Metasploit](https://shields.io)
