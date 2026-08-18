@@ -66,10 +66,11 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 ---
 
 
+## Habilidades & Herramientas Ciberseguridad
 
+<!--
 ## Tech Stack & Cyber Tools
-
-
+-->
 
 ### Offensive & Testing
 
@@ -97,7 +98,7 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <td align="center" style="border: none;">
-    <img src="https://img.shields.io/badge/Windows-%234C81ED">
+    <img src=https://img.shields.io/badge/Windows-%234C81ED>
   </td>
   <td align="center" style="border: none;">
     <img src=https://img.shields.io/badge/Linux-%23FCC624>
