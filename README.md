@@ -95,15 +95,32 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 
 ### Automation & Infrastructure
 
-![Python](https://shields.io)
-
-![Bash](https://shields.io)
-
-![Docker](https://shields.io)
-
-![AWS](https://shields.io)
-
-![Linux](https://shields.io)
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <td align="center" style="border: none;">
+    <img src="https://img.shields.io/badge/Windows-%234C81ED">
+  </td>
+  <td align="center" style="border: none;">
+    <img src=https://img.shields.io/badge/Linux-%23FCC624>
+  </td>
+  <td align="center" style="border: none;">
+    <img src=https://img.shields.io/badge/Python-%233776AB>
+  </td>
+  <td>
+    <img src=https://img.shields.io/badge/Bash-%23000000>
+  </td>
+  <td align="center" style="border: none;">
+    <img src=https://img.shields.io/badge/Docker-%232496ED>
+  </td>
+    <td align="center" style="border: none;">
+  <img src=https://img.shields.io/badge/Metasploit-%23CC041B>
+  </td>
+  <td align="center" style="border: none;">
+    <img src=https://img.shields.io/badge/Wireshark-%2305A5F0>
+  </td>
+  <td align="center" style="border: none;">
+    <img src=https://img.shields.io/badge/Nmap-%232A0D45>
+  </td>
+</table>
 
 
 
