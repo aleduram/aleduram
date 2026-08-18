@@ -74,20 +74,20 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 ### Offensive & Testing
 
 <td align="center" style="border: none;">
-![Static Badge](https://img.shields.io/badge/Kali%20Linux-4351F7)
+<img src=https://img.shields.io/badge/Kali%20Linux-%234351F7>
 </td>
 <td></td>
 <td align="center" style="border: none;">
 <img src=https://img.shields.io/badge/Burp%20Suite-%23FE6515>
 </td>
 <td align="center" style="border: none;">
-![Metasploit](https://shields.io)
+<img src=https://img.shields.io/badge/Metasploit-%23CC041B>
 </td>
 <td align="center" style="border: none;">
-![Wireshark](https://shields.io)
+<img src=https://img.shields.io/badge/Wireshark-%2305A5F0>
 </td>
 <td align="center" style="border: none;">
-![Nmap](https://shields.io)
+<img src=https://img.shields.io/badge/Nmap-%232A0D45>
 </td>
 
 
