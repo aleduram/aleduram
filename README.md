@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="banner (1).svg" width="100%" alt="Cybersecurity Banner" />
+  <img src="banner.svg" width="100%" alt="Cybersecurity Banner" />
 
 </p>
 
@@ -21,7 +21,7 @@
   
   </td>
   <td align="center" style="border: none;">
-    <a href="https://hackthebox.com"><img src="https://img.shields.io/badge/Tryhackme%20-%20%239FEF00" alt="TryHackMe"></a>
+    <a href="https://hackthebox.com"><img src="https://img.shields.io/badge/Hackthebox%20-%20%239FEF00" alt="TryHackMe"></a>
   </td>
   <td align="center" style="border: none;">
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn%20-%20000000?color=%230D7EBF" alt="HackTheBox"></a>
@@ -51,11 +51,11 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 
 > [!IMPORTANT]
 
-> 🎯 **Objetivo Actual:** Consolidar mis conocimientos en Pentesting Avanzado y prepararme para la certificación OSCP / eWPTX.
+> **Objetivo Actual:** Consolidar mis conocimientos en Pentesting Avanzado y prepararme para la certificación OSCP / eWPTX.
 
 
 
-### 🔍 Áreas de Especialización:
+### Áreas de Especialización:
 
 - **Red Teaming:** Pentesting Web, API Assessment, Privilege Escalation.
 
@@ -67,11 +67,11 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 
 
 
-## 🧰 Tech Stack & Cyber Tools
+## Tech Stack & Cyber Tools
 
 
 
-### 💀 Offensive & Testing
+### Offensive & Testing
 
 <td align="center" style="border: none;">
 ![Kali Linux](https://shields.io)
@@ -91,7 +91,7 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 </td>
 
 
-### 🐍 Automation & Infrastructure
+### Automation & Infrastructure
 
 ![Python](https://shields.io)
 
@@ -108,7 +108,7 @@ En este proceso de aprendizaje continuo (que considero que nunca alcanzará su l
 ---
 
 
-## 📺 Última Demo / Write-up en Video
+## Última Demo / Write-up en Video
 
 
 
@@ -128,7 +128,7 @@ Aquí muestro el proceso completo de explotación y escalada de privilegios de u
 
 
 
-## 📊 Actividad y Estadísticas
+## Actividad y Estadísticas
 
 
 
@@ -154,15 +154,15 @@ Aquí muestro el proceso completo de explotación y escalada de privilegios de u
 
 
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 
 
-* 🛠️ **[Custom-Subdomain-Scanner](https://github.com):** Herramienta en Python para reconocimiento pasivo y activo de subdominios con alertas a Discord.
+* **[Custom-Subdomain-Scanner](https://github.com):** Herramienta en Python para reconocimiento pasivo y activo de subdominios con alertas a Discord.
 
-* 📝 **[CyberSecurity-Notes](https://github.com):** Mi repositorio personal de trucos, cheatsheets de comandos y guías de hardening para Linux/Windows.
+* **[CyberSecurity-Notes](https://github.com):** Mi repositorio personal de trucos, cheatsheets de comandos y guías de hardening para Linux/Windows.
 
-* 🎯 **[CTF-Writeups](https://github.com):** Soluciones detalladas a salas complejas de TryHackMe y HackTheBox.
+* **[CTF-Writeups](https://github.com):** Soluciones detalladas a salas complejas de TryHackMe y HackTheBox.
 
 
 
@@ -172,7 +172,7 @@ Aquí muestro el proceso completo de explotación y escalada de privilegios de u
 
 <p align="center">
 
-  <code>🔒 System status: SECURE // Connection: ENCRYPTED // Identity: VERIFIED</code>
+  <code>System status: SECURE // Connection: ENCRYPTED // Identity: VERIFIED</code>
 
 </p>
 
